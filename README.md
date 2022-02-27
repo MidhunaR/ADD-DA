@@ -8,8 +8,8 @@ place of the disaster and name of the disaster.
 Under guidance of [Mr. Samvram Sahu](https://www.facebook.com/samvram), Scientist/Engineer-SC [National Remote Sensing Center](https://www.nrsc.gov.in/)
 
 The team members include:
-* Midhuna
-* Pavithra
+* Midhuna R
+* Pavithra V
 
 ## Proposed Methodology
 
