@@ -31,3 +31,7 @@ place of the disaster and name of the disaster.
   - Beautiful soup
   - Pandas
   - RASA NLU [NLP].
+
+## Flowchart
+
+![Flowchart](Flowchart.png)
